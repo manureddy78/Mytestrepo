@@ -2,7 +2,7 @@ main void ()
 
 {
  manoj = newmanoj();
-
+ cgi();
 }
 
 }
