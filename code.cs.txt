@@ -3,6 +3,10 @@ main void ()
 {
  manoj = newmanoj();
  cgi();
+
+
+new class ();
+
 }
 
 }
